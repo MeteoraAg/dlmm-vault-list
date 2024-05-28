@@ -1,1 +1,1 @@
-# sniper-vault-list
+# Sniper vault list
